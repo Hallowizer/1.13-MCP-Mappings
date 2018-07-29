@@ -99,3 +99,5 @@ func_200159_a,addTagEntry
 func_200574_a,addTagEntry
 func_200045_a,preserveOrder
 func_200051_a,build
+func_199885_a,getTaggedElements
+func_200577_a,getResourceLocation
