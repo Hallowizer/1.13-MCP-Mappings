@@ -43,3 +43,8 @@ p_198022_5_,mouseY
 p_195121_0_,runnable
 p_195121_1_,description
 p_195121_2_,screenName
+p_197961_1_,windowPointer
+p_197961_3_,keyCode
+p_197961_4_,scanCode
+p_197961_5_,action
+p_197961_6_,modifiers

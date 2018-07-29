@@ -38,9 +38,12 @@ func_198096_c,isFramerateLimitBelowMax
 func_198052_a,createScreenshot
 func_211651_a,getPixelSize
 func_195709_a,getPixelRGBA
-func_198023_a,onButtonPress
+func_198023_a,onButtonEvent
 func_198022_b,onCursorMove
 func_198020_a,onScroll
 func_198029_a,setupCallbacks
 func_197968_a,setupCallbacks
 func_195121_a,dispatchGuiEvent
+func_197961_a,onKeyEvent
+func_197967_a,enableRepeatEvents
+func_197965_a,getClipboardString
