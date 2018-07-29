@@ -22,6 +22,6 @@ field_197768_g,shapePart
 field_199630_f,startX
 field_199631_g,startY
 field_199632_h,startZ
-field_199633_i,startX
-field_199634_j,startY
-field_199635_k,startZ
+field_199633_i,endX
+field_199634_j,endY
+field_199635_k,endZ
