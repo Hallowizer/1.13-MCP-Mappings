@@ -29,3 +29,4 @@ func_201058_a,sendPacket
 func_198092_i,getWindowHandle
 func_197956_a,isKeyDown
 func_197962_c,processKeyF3
+func_198077_g,toggleFullscreen
