@@ -114,3 +114,8 @@ field_200165_a,elements
 field_200052_a,entries
 field_200163_a,resourceLocation
 field_200164_b,tag
+field_197838_b,x
+field_197839_c,y
+field_197840_d,z
+field_199626_e,AXIS_VALUES
+field_197853_e,bitSet

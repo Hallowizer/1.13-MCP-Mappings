@@ -94,3 +94,14 @@ p_200576_1_,jsonArray
 p_200576_2_,getNameForObject
 p_i48228_1_,resourceLocationIn
 p_i48229_1_,tagIn
+p_i47686_1_,xIn
+p_i47686_2_,yIn
+p_i47686_3_,zIn
+p_197757_1_,axis
+p_i47692_1_,shapePartIn
+p_i48183_4_,startXIn
+p_i48183_5_,startYIn
+p_i48183_6_,startZIn
+p_i48183_7_,endXIn
+p_i48183_8_,endYIn
+p_i48183_9_,endZIn
