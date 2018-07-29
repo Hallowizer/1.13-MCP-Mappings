@@ -21,3 +21,4 @@ func_199280_a,spawnEffectParticle
 func_200200_C_,getName
 func_211128_a,renderEffect
 func_200293_a,canCollideCheck
+func_211165_a,fromFormattingCode
