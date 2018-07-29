@@ -20,7 +20,7 @@ func_205055_a,loadWorld
 func_199280_a,spawnEffectParticle
 func_200200_C_,getName
 func_211128_a,renderEffect
-func_200293_a,canCollideCheck
+func_200293_a,isCollidable
 func_211165_a,fromFormattingCode
 func_194829_a,mouseClicked
 func_199400_c,mousePressed
