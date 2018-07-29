@@ -48,3 +48,13 @@ func_197961_a,onKeyEvent
 func_197967_a,enableRepeatEvents
 func_197965_a,getClipboardString
 func_197963_a,onCharEvent
+func_204610_c,getFluidState
+func_197752_a,toAxisAlignedBB
+func_197766_b,isEmpty
+func_197762_b,getStart
+func_197758_c,getEnd
+func_199623_a,getStart
+func_199624_b,getEnd
+func_196052_a,getAxisValue
+func_196051_a,getAxisValue
+func_200128_b,isVertical
