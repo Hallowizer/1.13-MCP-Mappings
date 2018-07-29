@@ -30,3 +30,8 @@ func_198092_i,getWindowHandle
 func_197956_a,isKeyDown
 func_197962_c,processKeyF3
 func_198077_g,toggleFullscreen
+func_198084_a,logGlError
+func_198076_a,setErrorMessage
+func_198086_a,updateDisplay
+func_198082_x,getLimitFramerate
+func_198096_c,isFramerateLimitBelowMax
