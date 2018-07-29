@@ -1,6 +1,6 @@
 searge,name
 field_195558_d,mainWindow
-field_198119_f,windowHandle
+field_198119_f,windowPointer
 field_198129_p,windowWidth
 field_198130_q,windowHeight
 field_195559_v,keyboardListener
@@ -9,3 +9,8 @@ field_198125_l,fullscreen
 field_198136_w,errorMessage
 field_198114_a,LOGGER
 field_198116_c,mc
+field_211680_b,pixelFormat
+field_195719_a,width
+field_195720_b,height
+field_195722_d,imagePointer
+field_195723_e,size

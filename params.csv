@@ -28,3 +28,11 @@ p_197956_0_,keyCode
 p_198076_1_,message
 p_198084_1_,error
 p_198084_2_,errorString
+p_198052_0_,width
+p_198052_1_,height
+p_198052_2_,framebufferIn
+p_i48122_1_,widthIn
+p_i48122_2_,heightIn
+p_i49763_1_,pixelFormatIn
+p_i49763_2_,widthIn
+p_i49763_3_,heightIn

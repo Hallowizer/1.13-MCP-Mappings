@@ -26,7 +26,7 @@ func_194829_a,mouseClicked
 func_199400_c,mousePressed
 func_211843_b,renderStringAtPos
 func_201058_a,sendPacket
-func_198092_i,getWindowHandle
+func_198092_i,getWindowPointer
 func_197956_a,isKeyDown
 func_197962_c,processKeyF3
 func_198077_g,toggleFullscreen
@@ -35,3 +35,6 @@ func_198076_a,setErrorMessage
 func_198086_a,updateDisplay
 func_198082_x,getLimitFramerate
 func_198096_c,isFramerateLimitBelowMax
+func_198052_a,createScreenshot
+func_211651_a,getPixelSize
+func_195709_a,getPixelRGBA
