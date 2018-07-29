@@ -24,3 +24,8 @@ func_200293_a,canCollideCheck
 func_211165_a,fromFormattingCode
 func_194829_a,mouseClicked
 func_199400_c,mousePressed
+func_211843_b,renderStringAtPos
+func_201058_a,sendPacket
+func_198092_i,getWindowHandle
+func_197956_a,isKeyDown
+func_197962_c,processKeyF3
