@@ -48,3 +48,10 @@ p_197961_3_,keyCode
 p_197961_4_,scanCode
 p_197961_5_,action
 p_197961_6_,modifiers
+p_197963_1_,windowPointer
+p_197963_3_,codePoint
+p_197963_4_,modifiers
+p_198023_1_,windowPointer
+p_198023_3_,button
+p_198023_4_,action
+p_198023_5_,modifiers

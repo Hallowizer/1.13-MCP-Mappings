@@ -47,3 +47,4 @@ func_195121_a,dispatchGuiEvent
 func_197961_a,onKeyEvent
 func_197967_a,enableRepeatEvents
 func_197965_a,getClipboardString
+func_197963_a,onCharEvent
