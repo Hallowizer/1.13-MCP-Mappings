@@ -248,3 +248,13 @@ p_207183_1_,state
 p_207211_0_,fluidName
 p_203425_1_,tag
 p_203417_1_,tag
+p_i48243_1_,materialMapColorIn
+p_i48243_2_,liquidIn
+p_i48243_3_,solidIn
+p_i48243_4_,doesBlockMovementIn
+p_i48243_5_,opaqueIn
+p_i48243_6_,requiresNoToolIn
+p_i48243_7_,canBurnIn
+p_i48243_8_,replaceableIn
+p_i48243_9_,mobilityFlagIn
+p_i48270_1_,materialMapColorIn

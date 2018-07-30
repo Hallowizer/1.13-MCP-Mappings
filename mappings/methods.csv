@@ -221,3 +221,15 @@ func_196261_e,isAir
 func_203417_a,isTagged
 func_203425_a,isTagged
 func_195593_d,notifyNeighborsOfStateChange
+func_200507_a,liquid
+func_200502_b,notSolid
+func_200508_c,doesNotBlockMovement
+func_200505_j,notOpaque
+func_200510_d,requiresTool
+func_200504_e,canBurn
+func_200509_f,replaceable
+func_200511_g,pushDestroys
+func_200503_h,pushBlocks
+func_200506_i,build
+func_209402_a,getInstance
+func_202079_a,getInstance
