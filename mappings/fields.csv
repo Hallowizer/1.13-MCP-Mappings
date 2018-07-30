@@ -225,3 +225,10 @@ field_197998_c,videoModes
 field_197999_d,defaultVideoMode
 field_198000_e,virtualPosX
 field_198001_f,virtualPosY
+field_198060_d,windowToMonitorMap
+field_198131_r,framebufferWidth
+field_198132_s,framebufferHeight
+field_198127_n,windowX
+field_198128_o,windowY
+field_198051_p,mouseHasFocus
+field_195555_I,windowHasFocus

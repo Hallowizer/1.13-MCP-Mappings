@@ -139,3 +139,15 @@ func_197993_b,getVideoModeOrDefaultIndex
 func_197991_a,getVideoModeFromIndex
 func_197994_e,getVideoModeCount
 func_197995_f,getMonitorPointer
+func_198055_a,getWindowMonitor
+func_198085_v,updateWindowMonitor
+func_198102_b,onFramebufferSizeUpdate
+func_198080_a,onWindowPosUpdate
+func_198089_c,onWindowSizeUpdate
+func_198095_a,onWindowFocusUpdate
+func_198109_k,getFramebufferWidth
+func_198091_l,getFramebufferHeight
+func_198034_i,setIngameFocus
+func_198035_h,isMouseFocused
+func_198103_w,updateFramebufferSize
+func_198110_t,loadIcon

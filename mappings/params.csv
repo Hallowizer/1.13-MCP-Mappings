@@ -173,3 +173,16 @@ p_198055_1_,window
 p_i47673_1_,virtualScreenIn
 p_i47673_2_,monitorPointerIn
 p_197992_1_,optionalVideoMode
+p_197993_1_,optionalVideoMode
+p_197991_1_,index
+p_198102_1_,windowPointer
+p_198102_3_,framebufferWidth
+p_198102_4_,framebufferHeight
+p_198089_1_,windowPointer
+p_198089_3_,windowWidth
+p_198089_4_,windowHeight
+p_198080_1_,windowPointer
+p_198080_3_,windowX
+p_198080_4_,windowY
+p_198095_1_,windowPointer
+p_198095_3_,hasFocus
