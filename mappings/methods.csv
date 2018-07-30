@@ -183,7 +183,7 @@ func_197938_b,getType
 func_197944_a,getOrMakeInput
 func_197954_a,getInputByCode
 func_197955_a,getInputByName
-func_195586_b,getCollisionBoxes
+func_195586_b,isCollisionBoxesEmpty
 func_195583_a,getCollisionBoxes
 func_197873_a,makeCuboid
 func_197881_a,makeCuboidFromAABB
