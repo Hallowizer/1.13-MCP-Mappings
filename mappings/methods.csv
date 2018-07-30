@@ -173,3 +173,13 @@ func_195544_aj,isWindowFocused
 func_199101_a,reset
 func_199102_a,smooth
 func_198028_a,updatePlayerLook
+func_197980_a,setKeyBindState
+func_197981_a,onTick
+func_197943_a,registerInput
+func_197937_c,getKeyCode
+func_197935_d,getUnlocalizedName
+func_197936_a,getName
+func_197938_b,getType
+func_197944_a,getOrMakeInput
+func_197954_a,getInputByCode
+func_197955_a,getInputByName

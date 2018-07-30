@@ -247,3 +247,12 @@ field_199104_b,remainingValue
 field_199105_c,lastAmount
 field_198048_m,deltaX
 field_198049_n,deltaY
+field_197974_c,debugCrashKeyPressTime
+field_197975_d,actionKeyF3
+field_197951_e,inputs
+field_197939_a,name
+field_197940_b,type
+field_197941_c,keyCode
+field_199875_d,REGISTRY
+field_197952_f,name
+field_197958_a,INPUT_INVALID
