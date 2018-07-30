@@ -254,3 +254,13 @@ func_196487_d,makeShapes
 func_196486_i,getShapeIndex
 func_211155_a,getCollisionBoxes
 func_197880_a,emptyShape
+func_199405_a,getCollisionBoxes
+func_195585_a,checkNoEntityCollision
+func_197879_c,compareShapes
+func_197775_a,makeShapePart
+func_197757_a,getAxisPoints
+func_200718_a,getNameForObject
+func_208304_a,makeResourceLocation
+func_200713_a,getEntityTypeForName
+func_200712_a,registerEntityType
+func_206830_a,build
