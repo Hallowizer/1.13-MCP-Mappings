@@ -217,3 +217,11 @@ field_198124_k,videoMode
 field_199045_c,fullscreenWidth
 field_199046_d,fullscreenHeight
 field_198126_m,lastFullscreen
+field_198058_b,monitorMap
+field_198059_c,unusedMap
+field_197996_a,virtualScreen
+field_197997_b,monitorPointer
+field_197998_c,videoModes
+field_197999_d,defaultVideoMode
+field_198000_e,virtualPosX
+field_198001_f,virtualPosY

@@ -166,3 +166,10 @@ p_i49505_2_,heightIn
 p_i49505_3_,fullscreenWidthIn
 p_i49505_4_,fullscreenHeightIn
 p_i49505_5_,fullscreenIn
+p_198056_1_,monitor
+p_198056_3_,event
+p_198054_1_,monitorPointer
+p_198055_1_,window
+p_i47673_1_,virtualScreenIn
+p_i47673_2_,monitorPointerIn
+p_197992_1_,optionalVideoMode
