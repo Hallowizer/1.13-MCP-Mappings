@@ -105,3 +105,7 @@ func_197819_a,getAxisValue
 func_197823_b,getX
 func_197820_c,getY
 func_197821_d,getZ
+func_197514_a,reverse
+func_197517_a,getAxisValue
+func_210769_a,getFacingFromVector
+func_211699_a,getFacingFromAxisDirection
