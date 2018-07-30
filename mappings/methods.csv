@@ -183,3 +183,14 @@ func_197938_b,getType
 func_197944_a,getOrMakeInput
 func_197954_a,getInputByCode
 func_197955_a,getInputByName
+func_195586_b,getCollisionBoxes
+func_195583_a,getCollisionBoxes
+func_197873_a,makeCuboid
+func_197881_a,makeCuboidFromAABB
+func_206886_c,getFluid
+func_207185_a,isTagged
+func_201671_F,hasWater
+func_197884_a,calculateAxisOffset
+func_199406_a,getCollisionBoxes
+func_211153_a,getCollisionBoxes
+func_195587_c,checkNoEntityCollision
