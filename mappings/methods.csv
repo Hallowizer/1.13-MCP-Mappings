@@ -264,3 +264,4 @@ func_208304_a,makeResourceLocation
 func_200713_a,getEntityTypeForName
 func_200712_a,registerEntityType
 func_206830_a,build
+func_195936_a,registerItem
