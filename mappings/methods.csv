@@ -303,3 +303,6 @@ func_205564_a,getFlow
 func_207187_a,isEqualTo
 func_205586_a,shouldRenderSides
 func_200015_d,isFullBlock
+func_201067_a,getOrLoadData
+func_200251_aP,getWorldScoreboard
+func_206887_a,getFlow
