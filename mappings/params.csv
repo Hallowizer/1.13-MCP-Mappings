@@ -234,7 +234,7 @@ p_199601_1_,newState
 p_199601_2_,world
 p_199601_3_,pos
 p_196244_1_,state
-p_196244_2_,reader
+p_196244_2_,world
 p_196244_3_,pos
 p_196254_0_,resourceName
 p_196249_0_,resourceLocation
@@ -343,3 +343,13 @@ p_i49005_1_,objectIn
 p_i49005_2_,factoryIn
 p_195867_1_,key
 p_207184_1_,builder
+p_207192_1_,state
+p_207193_1_,state
+p_205564_1_,world
+p_205564_2_,pos
+p_205564_3_,state
+p_207187_1_,fluid
+p_205586_1_,world
+p_205586_2_,pos
+p_200015_1_,world
+p_200015_2_,pos
