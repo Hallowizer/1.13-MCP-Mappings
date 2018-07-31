@@ -293,7 +293,7 @@ p_211154_4_,entitiesToIgnore
 p_211154_5_,breakOnEntityCollide
 p_195587_1_,entity
 p_195587_2_,aabb
-p_195585_1_,entity
+p_195585_1_,entityIn
 p_195585_2_,shape
 p_197879_0_,shape1
 p_197879_1_,shape2
