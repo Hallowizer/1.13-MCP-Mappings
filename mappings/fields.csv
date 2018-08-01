@@ -1091,3 +1091,17 @@ field_196528_a,LIT
 field_196531_c,LIT
 field_196325_b,LIT
 field_200255_ai,worldScoreboard
+field_196501_a,LIT
+field_200007_a,FACING_VALUES
+field_196001_b,player
+field_196008_i,pos
+field_196006_g,world
+field_196005_f,facing
+field_196002_c,hitX
+field_196003_d,hitY
+field_196004_e,hitZ
+field_205375_e,pendingTickListEntriesTreeSet
+field_205374_d,pendingTickListEntriesHashSet
+field_205377_g,pendingTickListEntriesThisTick
+field_205376_f,server
+field_205378_h,tickFunction
