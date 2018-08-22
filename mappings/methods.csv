@@ -341,3 +341,5 @@ func_205339_a,tickFluid
 func_205338_b,tickBlock
 func_205220_G_,getPendingBlockTicks
 func_205219_F_,getPendingFluidTicks
+func_148837_a,read
+func_148840_b,write
