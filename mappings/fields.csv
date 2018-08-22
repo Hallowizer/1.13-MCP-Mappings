@@ -1105,3 +1105,10 @@ field_205374_d,pendingTickListEntriesHashSet
 field_205377_g,pendingTickListEntriesThisTick
 field_205376_f,server
 field_205378_h,tickFunction
+field_183503_M,screen
+field_146292_n,components
+field_179294_g,direction
+field_150746_k,channel
+field_149598_b,host
+field_149599_c,protocolVersion
+field_149597_d,requestedProtocol
